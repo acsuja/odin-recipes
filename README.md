@@ -1,0 +1,2 @@
+Hello, welcome to my recipe project. This project is to create a website that includes an index page, and three recipe pages, with a link to each recipe page on the index page.
+Through this project, I have learned how to create an HTML boilerplate, display images and links on a webpage, and create a basic layout for a web page using lists, heading, and paragraphs.
